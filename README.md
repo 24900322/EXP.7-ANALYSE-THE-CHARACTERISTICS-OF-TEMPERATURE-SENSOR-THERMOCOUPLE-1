@@ -34,12 +34,19 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 # Thermocouple type:
 Type B Thermocouple
+
 Type E Thermocouple
+
 Type J Thermocouple
+
 Type K Thermocouple
+
 Type N Thermocouple
+
 Type R Thermocouple
+
 Type S Thermocouple
+
 Type T Thermocouple
 
 Output temperature: 
