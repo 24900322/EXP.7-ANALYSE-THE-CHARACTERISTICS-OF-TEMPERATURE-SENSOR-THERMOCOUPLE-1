@@ -49,7 +49,8 @@ Type S Thermocouple
 
 Type T Thermocouple
 
-Output temperature: 
+# Output temperature: 
+
 ![WhatsApp Image 2025-11-18 at 18 12 38_028666a5](https://github.com/user-attachments/assets/445bf599-9072-4979-a443-4518125c8ed7)
 
 ## Result: 
