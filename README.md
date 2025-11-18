@@ -1,4 +1,4 @@
-# EXP.7-ANALYSE-THE-CHARACTERISTICS-OF-TEMPERATURE-SENSOR-THERMOCOUPLE-1
+# ANALYSE THE CHARACTERISTICS OF TEMPERATURE SENSOR THERMOCOUPLE 
 
 ## Aim:
 To understand the working Principle of Thermocouple.
@@ -32,10 +32,18 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## output:
 
-Thermocouple type:
-
-Reference Temperature:
+# Thermocouple type:
+Type B Thermocouple
+Type E Thermocouple
+Type J Thermocouple
+Type K Thermocouple
+Type N Thermocouple
+Type R Thermocouple
+Type S Thermocouple
+Type T Thermocouple
 
 Output temperature: 
+![WhatsApp Image 2025-11-18 at 18 12 38_028666a5](https://github.com/user-attachments/assets/445bf599-9072-4979-a443-4518125c8ed7)
 
 ## Result: 
+Thus ANALYSE THE CHARACTERISTICS OF TEMPERATURE SENSOR THERMOCOUPLE has been measured.
